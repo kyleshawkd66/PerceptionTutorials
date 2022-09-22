@@ -1,0 +1,15 @@
+this is my submission
+
+total 8
+drwxr-xr-x  5 mango  staff  160 Sep 22 16:18 .
+drwxr-xr-x  3 mango  staff   96 Sep 22 15:53 ..
+-rw-r--r--  1 mango  staff   12 Sep 22 15:53 a_file.txt
+-rw-r--r--  1 mango  staff    0 Sep 22 15:53 b_file.txt
+-rw-r--r--  1 mango  staff    0 Sep 22 16:18 wang.14538.txt
+total 16
+drwxr-xr-x  5 mango  staff  160 Sep 22 16:18 .
+drwxr-xr-x  3 mango  staff   96 Sep 22 15:53 ..
+-rw-r--r--  1 mango  staff   12 Sep 22 15:53 a_file.txt
+-rw-r--r--  1 mango  staff    0 Sep 22 15:53 b_file.txt
+-rw-r--r--  1 mango  staff  275 Sep 22 16:18 wang.14538.txt
+/Users/mango/Desktop/perception/PerceptionTutorials/02_bash/submissions/wang.14538/folder_1
